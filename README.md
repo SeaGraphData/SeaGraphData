@@ -8,8 +8,7 @@
 ![alt](trinu.jpg)
 
 
-
-[I'm an inline-style link](https://www.google.com)
+<div align="left">
 
 Here are some ideas to get you started:
 
