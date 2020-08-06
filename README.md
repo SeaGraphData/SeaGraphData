@@ -36,7 +36,7 @@ Jupyter Notebook scripts involving Data Science concepts, LaTeX files or even Au
 #### Future  
   
 - Accoustic Behaviour on board a Bulk Carrier
--->
+
 
 <br />
 
