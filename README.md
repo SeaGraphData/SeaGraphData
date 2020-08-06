@@ -11,7 +11,7 @@
 
 juan.fernandez.sea@gmail.com
 
-Open minded & motivated person, eager to learn about creative environments and do new roles & challenges that will stimulate my skills as a Data professional
+Open minded & motivated person, eager to learn about creative environments that will stimulate my skills as a Data professional involving engineering issues
 
 
 <div align="left">
