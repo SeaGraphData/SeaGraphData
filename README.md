@@ -3,7 +3,8 @@
 
 
 <p align="center">
-  ## My profile
+© Juan Fernandez
+  <juan.fernandez.sea@gmail.com>
 </p>
 
 Here are some ideas to get you started:
