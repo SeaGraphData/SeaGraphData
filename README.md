@@ -5,7 +5,7 @@
 <div align="center">
 © Juan Fernandez  
 
-Juan 
+juan.fernandez.sea@gmail.com 
 
 
 
