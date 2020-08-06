@@ -15,11 +15,11 @@ Open minded & motivated person, eager to learn about creative environments that 
 
 <br />
 
+Jupyter Notebook scripts involving Data Science concepts, LaTeX files or even AutoCAD drawings will be attached over the time, being all of them created by the enthusiasm and self-learning process of the author. The intention of that is able to share knowledge and continue to grow in the Data field.
 
 <br />
 
 
-<br />
 
 
 
@@ -28,7 +28,7 @@ Open minded & motivated person, eager to learn about creative environments that 
 
 #### Present
 
-- Facility Costs in OOP Python
+- Facility Costs in OOP Python script
 - LaTeX Files (Resume & Cover Letter Samples)
   
 <br />  
