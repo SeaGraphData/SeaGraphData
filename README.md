@@ -5,7 +5,7 @@
 <div align="center">
 © Juan Fernandez  
 
-![Ni](file:///Users/josemariafernandezmora/Desktop/CV%20&%20Companies/GraphVitae%20Marine%20Extended/Resume%20Ashore%20Maritime/trinu.jpg)
+![alt text](file:///Users/josemariafernandezmora/Desktop/CV%20&%20Companies/GraphVitae%20Marine%20Extended/Resume%20Ashore%20Maritime/trinu.jpg)
 
 
 
