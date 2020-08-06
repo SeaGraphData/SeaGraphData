@@ -2,7 +2,9 @@
 
 ## My profile
 
-<center> Centered text </center>
+<p align="justify">
+  Lorem ipsum
+</p>
 
 Here are some ideas to get you started:
 
