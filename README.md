@@ -3,9 +3,15 @@
 
 
 <div align="center">
-© Juan Fernandez  
+
 
 ![alt](trinu.jpg)
+
+© Juan Fernandez  
+
+juan.fernandez.sea@gmail.com
+
+Open minded & motivated person, eager to learn about creative environments and do new roles & challenges that will stimulate my skills as a Data professional
 
 
 <div align="left">
