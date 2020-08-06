@@ -24,7 +24,7 @@ Jupyter Notebook scripts involving Data Science concepts, LaTeX files or even Au
 
 
 
-## Idea
+## Repo Library
 
 #### Present
 
