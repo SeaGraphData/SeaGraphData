@@ -28,14 +28,14 @@ Jupyter Notebook scripts involving Data Science concepts, LaTeX files or even Au
 
 #### Present
 
-- Facility Costs in OOP Python script
-- LaTeX Files (Resume & Cover Letter Samples)
+ Facility Costs in OOP Python script
+ LaTeX Files (Resume & Cover Letter Samples)
   
 <br />  
   
 #### Future  
   
-- Accoustic Behaviour on board a Bulk Carrier
+Accoustic Behaviour on board a Bulk Carrier
 
 
 <br />
