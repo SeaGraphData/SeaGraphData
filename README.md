@@ -29,13 +29,20 @@ Open minded & motivated person, eager to learn about creative environments that 
 #### Present
 
 - Facility Costs in OOP Python
-- LaTeX Files
-  - Resume Sample
-  - Cover Letter Sample
+- LaTeX Files (Resume & Cover Letter Samples)
+  
+<br />  
   
 #### Future  
   
 - Accoustic Behaviour on board a Bulk Carrier
 -->
 
-Any query, please do not hesitate to contact me
+<br />
+
+
+<br />
+
+For any query, please do not hesitate to contact me. 
+
+Most of the section above mentioned are in process.
