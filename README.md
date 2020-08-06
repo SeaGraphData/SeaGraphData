@@ -4,7 +4,7 @@
 
 ![alt](trinu.jpg)
 
-# Data Portfolio & Projects
+# Portfolio & Projects
 
 © *Juan Fernandez*  
 
