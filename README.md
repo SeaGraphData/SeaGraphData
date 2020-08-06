@@ -4,7 +4,7 @@
 
 <p align="center">
 © Juan Fernandez
-  <juan.fernandez.sea@gmail.com>
+<juan.fernandez.sea@gmail.com>
 </p>
 
 Here are some ideas to get you started:
