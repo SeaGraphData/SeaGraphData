@@ -2,7 +2,7 @@
 
 ## My profile
 
-<center>Centered text</center>
+<center> Centered text </center>
 
 Here are some ideas to get you started:
 
