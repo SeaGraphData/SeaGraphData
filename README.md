@@ -1,13 +1,10 @@
-# Data Portfolio & Projects
-
-
 
 <div align="center">
 
 
 ![alt](trinu.jpg)
 
-## Portfolio
+# Data Portfolio & Projects
 
 © *Juan Fernandez*  
 
