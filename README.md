@@ -14,7 +14,7 @@ juan.fernandez.sea@gmail.com
 Open minded & motivated person, eager to learn about creative environments that will stimulate my skills as a Data professional involving engineering issues
 
 
-
+<br />
 
 
 
