@@ -2,7 +2,7 @@
 <div align="center">
 
 
-![alt](trinu.jpg)
+![Logo](trinu.jpg)
 
 # Portfolio & Projects
 
@@ -29,6 +29,7 @@ Jupyter Notebook scripts involving Data Science concepts, LaTeX files or even Au
 #### Present
 
  Facility Costs in OOP Python script
+ 
  LaTeX Files (Resume & Cover Letter Samples)
   
 <br />  
