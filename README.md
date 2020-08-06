@@ -10,7 +10,7 @@
 
 juan.fernandez.sea@gmail.com
 
-Open minded & motivated person, eager to learn about creative environments that will stimulate my skills as a Data professional involving engineering issues
+Open minded & motivated person, eager to learn about creative environments that will stimulate my skills as a Data professional
 
 
 <br />
@@ -24,17 +24,18 @@ Open minded & motivated person, eager to learn about creative environments that 
 
 
 
+## Idea
 
-<div align="left">
+#### Present
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Facility Costs in OOP Python
+- LaTeX Files
+  - Resume Sample
+  - Cover Letter Sample
+  
+#### Future  
+  
+- Accoustic Behaviour on board a Bulk Carrier
 -->
+
+Any query, please do not hesitate to contact me
