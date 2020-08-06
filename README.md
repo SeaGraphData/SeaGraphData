@@ -3,8 +3,7 @@
 
 
 <p align="center">
-© Juan Fernandez \
-  JUan 
+© Juan Fernandez  JUan 
 </p>
 
 
