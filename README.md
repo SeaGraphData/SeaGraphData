@@ -1,6 +1,8 @@
-### Data Projects & Portfolio
+# Data Portfolio & Projects
 
-# My profile
+## My profile
+
+<center>Centered text</center>
 
 Here are some ideas to get you started:
 
