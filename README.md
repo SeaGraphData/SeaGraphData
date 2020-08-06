@@ -5,11 +5,9 @@
 <div align="center">
 © Juan Fernandez  
 
-[Ni](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_67599359_stock-vector-marine-icon-nautical-logo-sea-wave-logo-for-maritime-companies-.html&psig=AOvVaw3mn_P6C1tmdaPg-LQ-0E_O&ust=1596817585974000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMia9Zn_husCFQAAAAAdAAAAABAO)
+![Ni](file:///Users/josemariafernandezmora/Desktop/CV%20&%20Companies/GraphVitae%20Marine%20Extended/Resume%20Ashore%20Maritime/trinu.jpg)
 
 
-
-[text](juan.fernandez.sea@gmail.com)
 
 [I'm an inline-style link](https://www.google.com)
 
