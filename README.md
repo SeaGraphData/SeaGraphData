@@ -2,7 +2,7 @@
 
 ## My profile
 
-<p align="justify">
+<p align="right">
   Lorem ipsum
 </p>
 
