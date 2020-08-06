@@ -2,11 +2,11 @@
 
 
 
-<p align="center">
+<div align="center">
 © Juan Fernandez  
 
 Juan 
-</p>
+
 
 
 [text](juan.fernandez.sea@gmail.com)
