@@ -1,6 +1,6 @@
 ### Data Projects & Portfolio
 
-My profile
+### My profile
 
 Here are some ideas to get you started:
 
