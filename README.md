@@ -7,7 +7,7 @@
 [text](juan.fernandez.sea@gmail.com)
 </p>
 
-I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](https://www.google.com)
 
 Here are some ideas to get you started:
 
