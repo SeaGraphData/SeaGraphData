@@ -4,13 +4,11 @@
 
 <p align="center">
 © Juan Fernandez
+  JUan 
 </p>
 
-<p align="center">
-  
+
 [text](juan.fernandez.sea@gmail.com)
-
-</p>
 
 [I'm an inline-style link](https://www.google.com)
 
