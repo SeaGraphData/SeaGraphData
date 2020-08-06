@@ -1,9 +1,9 @@
 # Data Portfolio & Projects
 
-## My profile
 
-<p align="right">
-  Lorem ipsum
+
+<p align="center">
+  ## My profile
 </p>
 
 Here are some ideas to get you started:
