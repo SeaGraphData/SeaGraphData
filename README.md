@@ -37,8 +37,8 @@ Jupyter Notebook scripts related to Data Science concepts, LaTeX files or even A
  Facility Costs in OOP Python script
  
  LaTeX Files (Resume & Cover Letter Samples)
-  
-<br />  
+
+
   
 #### Future  
   
