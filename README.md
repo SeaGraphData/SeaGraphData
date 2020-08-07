@@ -26,7 +26,7 @@ Jupyter Notebook scripts related to Data Science concepts, LaTeX files or even A
 
 ## Skills
 
-![](Ana.png)
+![](Ana.jpg)
 
 
 #### [Anaconda Distribution](https://www.anaconda.com/) 
