@@ -35,7 +35,7 @@ Jupyter Notebook & Spyder
 *Data:* Pandas & Numpy
 
 
-*Visualization:* Matplotlib, Seaborn, Plotly and Cufflinks
+*Visualization:* Matplotlib, Seaborn, Plotly & Cufflinks
 
 
 #### Machine Learning
