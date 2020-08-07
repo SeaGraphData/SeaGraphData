@@ -47,6 +47,7 @@ Scickit-Learn
 
 <br />
 
+![Logo](Naval.jpg)
 
 #### [LaTeX](https://www.latex-project.org/) 
 
