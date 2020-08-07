@@ -2,7 +2,7 @@
 <div align="center">
 
 
-![Logo](trinu.jpg)
+![](trinu.jpg)
 
 # Portfolio & Projects
 
@@ -26,7 +26,7 @@ Jupyter Notebook scripts related to Data Science concepts, LaTeX files or even A
 
 ## Skills
 
-![Logo](Ana.png)
+![](Ana.png)
 
 
 #### [Anaconda Distribution](https://www.anaconda.com/) 
@@ -50,20 +50,20 @@ Scickit-Learn
 
 <br />
 
-![Logo](Naval.jpg)
+![](Naval.jpg)
 
 #### [LaTeX](https://www.latex-project.org/) 
 
 <br />
 
-![Logo](Mat.jpg)
+![](Mat.jpg)
 
 
 #### [MatLAB / Simulink](https://es.mathworks.com/?s_tid=gn_logo) 
 
 <br />
 
-![Logo](Auto.jpg)
+![](Auto.jpg)
 
 
 #### [AutoCAD (2D/3D)](https://www.autodesk.es/) 
