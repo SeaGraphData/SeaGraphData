@@ -32,17 +32,11 @@ Jupyter Notebook scripts related to Data Science concepts, LaTeX files or even A
 
 Jupyter Notebook & Spyder
 
-Pandas
+*Data:* Pandas & Numpy
 
-Numpy
 
-Matplotlib
+*Visualization:* Matplotlib, Seaborn, Plotly and Cufflinks
 
-Seaborn
-
-Plotly
-
-Cufflinks
 
 #### Machine Learning
 
@@ -51,6 +45,18 @@ Scickit-Learn
 #### Big Data and BI (in process)
 
 
+<br />
+
+
+#### [LaTeX](https://www.latex-project.org/) 
+
+<br />
+
+#### [MatLAB / Simulink](https://es.mathworks.com/?s_tid=gn_logo) 
+
+<br />
+
+#### [AutoCAD (2D/3D)](https://www.autodesk.es/) 
 
 <br />
 
