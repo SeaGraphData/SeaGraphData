@@ -28,8 +28,27 @@ Jupyter Notebook scripts related to Data Science concepts, LaTeX files or even A
 
 #### [Anaconda Distribution](https://www.anaconda.com/) 
 
+#### Standard
 
+Jupyter Notebook & Spyder
 
+Pandas
+
+Numpy
+
+Matplotlib
+
+Seaborn
+
+Plotly
+
+Cufflinks
+
+#### Machine Learning
+
+Scickit-Learn
+
+#### Big Data and BI (in process)
 
 
 
