@@ -33,19 +33,19 @@ Jupyter Notebook scripts related to Data Science concepts, LaTeX files or even A
 
 #### Standard
 
-Jupyter Notebook & Spyder
+Jupyter Notebook
 
 *Data:* Pandas & Numpy
 
 
-*Visualization:* Matplotlib, Seaborn, Plotly & Cufflinks
+*Visualization:* Matplotlib, Seaborn, Folium, Plotly
 
 
 #### Machine Learning
 
-Scickit-Learn
+Scickit-Learn, TensorFlow
 
-#### Big Data and BI (in process)
+
 
 
 <br />
@@ -56,17 +56,10 @@ Scickit-Learn
 
 <br />
 
-![](Mat.jpg)
 
-
-#### [MatLAB / Simulink](https://es.mathworks.com/?s_tid=gn_logo) 
 
 <br />
 
-![](Auto.jpg)
-
-
-#### [AutoCAD (2D/3D)](https://www.autodesk.es/) 
 
 <br />
 
@@ -77,13 +70,9 @@ Scickit-Learn
 
  [Facility Costs in OOP Python script](https://github.com/SeaGraphData/Facility-Cost)
  
- LaTeX Files (Resume & Cover Letter Samples)
 
 
-  
-#### Future  
-  
-Accoustic Behaviour on board a Bulk Carrier
+ 
 
 
 <br />
