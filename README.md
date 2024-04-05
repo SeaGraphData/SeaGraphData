@@ -12,7 +12,7 @@ juan.fernandez.sea@gmail.com
 
 <br />
 
-Analyzing problems, finding root-cause and determining solutions by means of data techniques, doing statistical analysis and building high quality prediction and visualization systems using Python, Matlab and MySQL tools, is the best opportunity to continue to develop deeply my knowledge in interesting challenges where the Machine Learning and Big Data techniques are involved.
+Analyzing problems, finding root-cause and determining solutions by means of statistical analysis and building prediction and visualization methods using Python, MySQL and other tools. 
 
 
 
@@ -20,7 +20,7 @@ Analyzing problems, finding root-cause and determining solutions by means of dat
 
 ## Goals
 
-Jupyter Notebook scripts related to Data Science concepts, LaTeX files or even AutoCAD drawings will be attached over the time, being all of them created by the enthusiasm and self-learning process of the author. The intention of that is able to share knowledge and continue to grow in the Data field. Appreciate your patience!
+Python scripts related to the author´s passion: maritime problems, being all of them created the enthusiasm and self-learning process. The intention of that is able to share personal knowledge and continue to grow in the Data Analysis field.
 
 <br />
 
