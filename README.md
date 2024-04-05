@@ -20,7 +20,7 @@ Analyzing problems, finding root-cause and determining solutions by means of sta
 
 ## Goals
 
-Python scripts related to the author´s passion: maritime problems, being all of them created the enthusiasm and self-learning process. The intention of that is able to share personal knowledge and continue to grow in the Data Analysis field.
+Python scripts mainly related to the author´s passion: maritime problems, being all of them created from an enthusiastic and self-learning process. The intention of that is able to share personal knowledge and continue to grow in the Data Analysis field at the same time.
 
 <br />
 
