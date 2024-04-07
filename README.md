@@ -52,7 +52,7 @@ Jupyter Notebook
 
 <br />
 
-<img src="https://your-image-url.type](https://github.com/SeaGraphData/SeaGraphData/blob/master/LatW.png" width="100" height="100">
+<img src="LatW.png" width="100" height="100">
 
 ![](LatW.png)
 
