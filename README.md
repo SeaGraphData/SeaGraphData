@@ -30,7 +30,7 @@ Python scripts mainly related to the author´s passion: maritime problems, being
 
 ## Skills
 
-![](Ana.jpg)
+<img src="anaw.png" width="100" height="100">
 
 
 #### [Anaconda Distribution](https://www.anaconda.com/) 
