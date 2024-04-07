@@ -5,6 +5,15 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&duration=7000&pause=1000&center=true&multiline=true&random=false&width=435&lines=Hi+There!;+This+is+Juan+Fernandez;Project+Data+Repos;Assistance%3A+Analysis+%26+Visualisation)
 
 
+
+
+
+
+
+
+
+
+
 ![](trinu.jpg)
 
 # Portfolio & Projects
