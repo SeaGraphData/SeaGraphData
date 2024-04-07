@@ -6,7 +6,6 @@
 
 
 
-![](trinu.jpg)
 
 # Portfolio
 
@@ -24,16 +23,16 @@ Analyzing problems, finding root-cause and determining solutions by means of sta
 
 ## Goals
 
-Python scripts mainly related to the author´s passion: maritime problems, being all of them created from an enthusiastic and self-learning process. The intention of that is able to share personal knowledge and continue to grow in the Data Analysis field at the same time.
+Python scripts mainly related to the author´s passion: maritime problems, being all of them created from an enthusiastic and self-learning process. The intention of that is able to share personal knowledge and continue to grow in the Data Analysis field.
 
 <br />
 
 ## Tools
 
-<img src="anaw.png" width="100" height="100">
+<img src="anaw.png" width="80" height="80">
 
 
-#### [Anaconda Distribution](https://www.anaconda.com/) 
+#### [Python & Anaconda Distribution](https://www.anaconda.com/) 
 
 *Data:* Pandas, Numpy, Xarray & BeautifulSoup
 
@@ -52,7 +51,7 @@ Python scripts mainly related to the author´s passion: maritime problems, being
 
 <br />
 
-<img src="QGISW.png" width="60" height="60">
+<img src="QGISW.png" width="70" height="70">
 <img src="AGIS.png" width="75" height="75">
 
 #### [GIS Mapping Software](https://www.esri.com/en-us/home) 
@@ -86,7 +85,7 @@ MySQL, PowerBI, C / C++
 
 #### Maritime
 
- [web scaping from ShipInfo Website](https://github.com/SeaGraphData/Web-Scraping-ShipInfo)
+ [Web Scaping from ShipInfo Website](https://github.com/SeaGraphData/Web-Scraping-ShipInfo)
 
  [AIS Analysis from Danish Maritime Authority (DMA) ](https://github.com/SeaGraphData/Danish-AIS-Data-Analysis)
 
