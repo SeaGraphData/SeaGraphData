@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&duration=7000&pause=1000&color=E4F0F7&center=true&random=false&width=435&lines=Hi+There!;+This+is+Juan+Fernandez;Project+Data+Repos;Assistance%3A+Analysis+%26+Visualisation)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&duration=7000&pause=1000&color=E4F0F7&center=true&random=false&width=435&lines=Hi+There!;+This+is+Juan+Fernandez;Project+Data+Repos;Assistance%3A+Analysis+%26+Visualisation)](https://git.io/typing-svg)
 
 
 
@@ -54,7 +54,7 @@ Scickit-Learn, TensorFlow
 
 <br />
 
-![](Naval.jpg)
+![](LatW.png)
 
 #### [LaTeX](https://www.latex-project.org/) 
 
