@@ -1,8 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SeaGraphData.SeaGraphData" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&pause=1000&center=true&random=false&width=435&lines=Hi+There!;This+is+Juan+Fernandez;PROJECT+DATA+REPOS)]
 
 <div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&pause=1000&center=true&random=false&width=435&lines=Hi+There!;This+is+Juan+Fernandez;Project+Data+Repos)
 
 
 ![](trinu.jpg)
