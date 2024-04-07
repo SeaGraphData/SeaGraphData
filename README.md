@@ -88,7 +88,7 @@ MySQL, PowerBI, C / C++
 
 #### Maritime
 
- [Web Scaping from ShipInfo Website](https://github.com/SeaGraphData/Web-Scraping-ShipInfo)
+ [Web Sraping from ShipInfo Website](https://github.com/SeaGraphData/Web-Scraping-ShipInfo)
 
  [AIS Analysis from Danish Maritime Authority (DMA) ](https://github.com/SeaGraphData/Danish-AIS-Data-Analysis)
 
