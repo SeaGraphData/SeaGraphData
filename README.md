@@ -52,8 +52,8 @@ Python scripts mainly related to the author´s passion: maritime problems, being
 
 <br />
 
-<img src="QGISW.png" width="100" height="100">
-<img src="QGISW.png" width="100" height="100">
+<img src="QGISW.png" width="75" height="75">
+<img src="AGIS.png" width="75" height="75">
 
 #### [GIS](https://www.esri.com/en-us/home) 
 
