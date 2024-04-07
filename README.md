@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&pause=1000&center=true&random=false&width=435&lines=++++++++++++++Hi+There!;+++++++++This+is+Juan+Fernandez;Project+Data+Repos)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&pause=1000&center=true&random=false&width=435&lines=+++++++++++++++++++++Hi+There!;+++++++++++++++++++++++++This+is+Juan+Fernandez;Project+Data+Repos)
 
 ![](trinu.jpg)
 
