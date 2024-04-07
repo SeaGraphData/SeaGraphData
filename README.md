@@ -32,7 +32,7 @@ Python scripts mainly related to the author´s passion: maritime problems, being
 <img src="anaw.png" width="80" height="80">
 
 
-#### [Python & Anaconda Distribution](https://www.anaconda.com/) 
+#### [Python with Anaconda Distribution](https://www.anaconda.com/) 
 
 *Data:* Pandas, Numpy, Xarray & BeautifulSoup
 
@@ -76,7 +76,7 @@ ArcGIS Pro, QGIS & SNAP
 
 #### [Others]()
 
-MySQL, PowerBI, C / C++
+MySQL, PowerBI, C / C++, VS Code Editor
 
 
 
