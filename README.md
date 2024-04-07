@@ -54,7 +54,6 @@ Jupyter Notebook
 
 <img src="LatW.png" width="100" height="100">
 
-![](LatW.png)
 
 #### [LaTeX](https://www.latex-project.org/) 
 
