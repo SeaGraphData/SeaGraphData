@@ -8,7 +8,7 @@
 
 ![](trinu.jpg)
 
-# Portfolio & Projects
+# Portfolio
 
 © *Juan Fernandez*  
 
@@ -28,21 +28,17 @@ Python scripts mainly related to the author´s passion: maritime problems, being
 
 <br />
 
-## Skills
+## Tools
 
 <img src="anaw.png" width="100" height="100">
 
 
 #### [Anaconda Distribution](https://www.anaconda.com/) 
 
-#### Standard
-
-Jupyter Notebook
-
 *Data:* Pandas, Numpy & BeautifulSoup
 
 
-*Visualization:* Matplotlib, Seaborn, Folium, Plotly
+*Visualization:* Matplotlib, Seaborn, Geopandas, Folium, Plotly
 
 
 *Machine Learning:* Scickit-Learn, TensorFlow
@@ -52,17 +48,20 @@ Jupyter Notebook
 
 <br />
 
+
+
+<br />
+
+<img src="QGISW.png" width="100" height="100">
+
+#### [GIS](https://www.esri.com/en-us/home) 
+
+<br />
+
 <img src="LatW.png" width="100" height="100">
 
 
 #### [LaTeX](https://www.latex-project.org/) 
-
-<br />
-
-
-
-<br />
-
 
 <br />
 
