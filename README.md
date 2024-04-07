@@ -35,7 +35,7 @@ Python scripts mainly related to the author´s passion: maritime problems, being
 
 #### [Anaconda Distribution](https://www.anaconda.com/) 
 
-*Data:* Pandas, Numpy & BeautifulSoup
+*Data:* Pandas, Numpy, Xarray & BeautifulSoup
 
 
 *Visualization:* Matplotlib, Seaborn, Geopandas, Folium, Plotly
@@ -52,10 +52,12 @@ Python scripts mainly related to the author´s passion: maritime problems, being
 
 <br />
 
-<img src="QGISW.png" width="75" height="75">
+<img src="QGISW.png" width="60" height="60">
 <img src="AGIS.png" width="75" height="75">
 
-#### [GIS](https://www.esri.com/en-us/home) 
+#### [GIS Mapping Software](https://www.esri.com/en-us/home) 
+
+ArcGIS Pro, QGIS & SNAP
 
 <br />
 
@@ -67,9 +69,28 @@ Python scripts mainly related to the author´s passion: maritime problems, being
 <br />
 
 
+<br />
+
+
+#### [Others]()
+
+MySQL, PowerBI, C / C++
+
+
+
+<br />
+
+
+
 ## Repo Library
 
-#### Present
+#### Maritime
+
+ [web scaping from ShipInfo Website](https://github.com/SeaGraphData/Web-Scraping-ShipInfo)
+
+ [AIS Analysis from Danish Maritime Authority (DMA) ](https://github.com/SeaGraphData/Danish-AIS-Data-Analysis)
+
+#### General
 
  [Facility Costs in OOP Python script](https://github.com/SeaGraphData/Facility-Cost)
  
@@ -82,5 +103,4 @@ Python scripts mainly related to the author´s passion: maritime problems, being
 
 
 <br />
-
-For any query, please do not hesitate to contact me. 
+ 
