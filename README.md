@@ -69,6 +69,9 @@ ArcGIS Pro, QGIS & SNAP
 
 
 <br />
+<img src="sql.png" width="100" height="100">
+<img src="pbi.png" width="100" height="100">
+<img src="c.png" width="100" height="100">
 
 
 #### [Others]()
