@@ -76,7 +76,7 @@ ArcGIS Pro, QGIS & SNAP
 
 #### [Others]()
 
-MySQL, PowerBI, C / C++, VS Code Editor
+MySQL, PowerBI, C / C++, Git, VS Code Editor
 
 
 
