@@ -53,7 +53,7 @@ Python scripts mainly related to the author´s passion: maritime problems, being
 <img src="anaw.png" width="80" height="80">
 
 
-#### [Python with Anaconda Distribution](https://www.anaconda.com/) 
+#### [Python & Anaconda Distribution](https://www.anaconda.com/) 
 
 *Data:* Pandas, Numpy, Xarray & BeautifulSoup
 
@@ -61,7 +61,7 @@ Python scripts mainly related to the author´s passion: maritime problems, being
 *Visualization:* Matplotlib, Seaborn, Geopandas, Folium, Plotly
 
 
-*Machine Learning:* Scickit-Learn, TensorFlow
+*Machine Learning:* Scickit-Learn, PyTorch
 
 
 
