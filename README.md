@@ -27,6 +27,27 @@ Python scripts mainly related to the author´s passion: maritime problems, being
 
 <br />
 
+
+
+
+## Repo Library
+
+#### Maritime
+
+ [Web Scraping from ShipInfo Website](https://github.com/SeaGraphData/Web-Scraping-ShipInfo)
+
+ [AIS Analysis from Danish Maritime Authority (DMA) ](https://github.com/SeaGraphData/Danish-AIS-Data-Analysis)
+
+#### General
+
+ [Facility Costs in OOP Python script](https://github.com/SeaGraphData/Facility-Cost)
+ 
+
+
+<br />
+
+
+
 ## Tools
 
 <img src="anaw.png" width="80" height="80">
@@ -80,22 +101,8 @@ MySQL, PowerBI, C / C++, Git, VS Code Editor
 
 
 
-<br />
 
 
-
-## Repo Library
-
-#### Maritime
-
- [Web Scraping from ShipInfo Website](https://github.com/SeaGraphData/Web-Scraping-ShipInfo)
-
- [AIS Analysis from Danish Maritime Authority (DMA) ](https://github.com/SeaGraphData/Danish-AIS-Data-Analysis)
-
-#### General
-
- [Facility Costs in OOP Python script](https://github.com/SeaGraphData/Facility-Cost)
- 
 
 
  
