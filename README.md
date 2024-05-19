@@ -15,9 +15,6 @@ juan.fernandez.sea@gmail.com
 
 <br />
 
-
-
-
 <br />
 
 ## Goals
