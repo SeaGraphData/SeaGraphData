@@ -17,7 +17,7 @@ juan.fernandez.sea@gmail.com
 
 ## Goals
 
-Analyzing problems, finding root-cause and determining solutions by means of statistical analysis and building prediction and visualization methods using Python, MySQL and other tools. 
+Analyzing problems, finding root-cause and determining solutions by means of statistical analysis and building prediction and visualization methods using Python, SQL and other tools. 
 
 
 Python scripts mainly related to the author´s passion: maritime problems, being all of them created from an enthusiastic and self-learning process. The intention of that is able to share personal knowledge and continue to grow in the Data Analysis field.
