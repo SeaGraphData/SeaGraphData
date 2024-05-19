@@ -29,7 +29,7 @@ Python scripts mainly related to the author´s passion: maritime problems, being
 
 ## Repo Library
 
-#### Maritime
+#### Maritime Repos
 
  [Web Scraping from ShipInfo Website](https://github.com/SeaGraphData/Web-Scraping-ShipInfo)
 
@@ -39,7 +39,7 @@ Python scripts mainly related to the author´s passion: maritime problems, being
 [US AIS Vessel Static Parameter ](https://github.com/SeaGraphData/US-AIS-Vessel-Static-Parameters)
 
 
-#### General
+#### General Repos
 
  [Facility Costs in OOP Python script](https://github.com/SeaGraphData/Facility-Cost)
  
