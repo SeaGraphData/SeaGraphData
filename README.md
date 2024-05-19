@@ -38,6 +38,10 @@ Python scripts mainly related to the author´s passion: maritime problems, being
 
  [AIS Analysis from Danish Maritime Authority (DMA) ](https://github.com/SeaGraphData/Danish-AIS-Data-Analysis)
 
+
+[US AIS Vessel Static Parameter ](https://github.com/SeaGraphData/US-AIS-Vessel-Static-Parameters)
+
+
 #### General
 
  [Facility Costs in OOP Python script](https://github.com/SeaGraphData/Facility-Cost)
