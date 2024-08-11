@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="SeaGraph.gif" width="350" height="350">
+<img src="SeaGraphData.gif" width="350" height="350">
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&duration=7000&pause=1000&color=E4F0F7&center=true&random=false&width=435&lines=Hi+There!;+This+is+Juan+Fernandez;Project+Data+Repos;Analysis+%26+Visualisation)](https://git.io/typing-svg)
@@ -94,7 +94,6 @@ ArcGIS Pro, QGIS & SNAP
 
 
 <br />
-<img src="sql.png" width="75" height="75">
 <img src="pbi.png" width="75" height="75">
 <img src="c.png" width="80" height="75">
 
