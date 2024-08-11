@@ -5,7 +5,7 @@
 <img src="SeaGraphData.gif" width="450" height="450">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&duration=7000&pause=1000&color=E4F0F7&center=true&random=false&width=435&lines=Hi+World!!;Maritime+Project+Repositories;Analysis+%26+Visualisation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&duration=7000&pause=1000&color=E4F0F7&center=true&random=false&width=435&lines=Hi+World!!;Maritime+Project+Repositories;Data+Analysis+%26+Visualisation)](https://git.io/typing-svg)
 
 
 
