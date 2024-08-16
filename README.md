@@ -18,7 +18,7 @@ juan.fernandez.sea@gmail.com
 
 
 
-## Goals
+## Objectives
 
 Analyzing problems, finding root-cause and determining solutions by means of statistical analysis and building prediction and visualization methods using Python, SQL and other tools. 
 
