@@ -34,7 +34,7 @@ Python scripts mainly related to the author´s passion: maritime problems, being
 
 #### Maritime Repos
 
- [Web Scraping from ShipInfo Website](https://github.com/SeaGraphData/Web-Scraping-ShipInfo)
+ [Web Scraping and Vessel Data](https://github.com/SeaGraphData/Web-Scraping-ShipInfo)
 
  [AIS Analysis from Danish Maritime Authority (DMA) ](https://github.com/SeaGraphData/Danish-AIS-Data-Analysis)
 
