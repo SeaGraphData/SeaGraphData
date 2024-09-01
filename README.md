@@ -94,7 +94,7 @@ ArcGIS Pro, QGIS & SNAP
 
 #### [Others]()
 
-SQL, PowerBI, C / C++, Git, VS Code Editor
+SQL, PowerBI, C / C++, Git, VS Code
 
 
 
