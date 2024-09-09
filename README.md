@@ -59,7 +59,7 @@ Python scripts mainly related to the author´s passion: maritime problems, being
 *Visualization:* Matplotlib, Seaborn, Geopandas, Folium, Plotly
 
 
-*Machine Learning:* Scickit-Learn, PyTorch
+*Machine Learning:* Scickit-Learn, PyTorch, TensorFlow
 
 
 
