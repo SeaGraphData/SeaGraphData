@@ -36,10 +36,12 @@ Python scripts mainly related to the author´s passion: maritime problems, being
 
  [Web Scraping and Vessel Data](https://github.com/SeaGraphData/Web-Scraping-ShipInfo)
 
+ [AIS DataRetrieval Static Parameters](https://github.com/SeaGraphData/AIS-Data-Retrieval-Static-Parameters)
+
  [AIS Analysis from Danish Maritime Authority (DMA) ](https://github.com/SeaGraphData/Danish-AIS-Data-Analysis)
 
 
-[US AIS Vessel Static Parameter ](https://github.com/SeaGraphData/US-AIS-Vessel-Static-Parameters)
+
 
 
 <br />
